@@ -59,6 +59,11 @@ All changes are documented in [CHANGELOG.md](CHANGELOG.md). We publish GitHub
 releases whenever a `v*.*.*` tag is pushed so you can easily reference past
 versions.
 
+## Branch Protection
+
+The `main` branch is protected to ensure code quality. See
+[BRANCH_PROTECTION.md](BRANCH_PROTECTION.md) for the recommended settings.
+
 ## License
 
 Text in this repository is available under the
