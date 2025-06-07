@@ -59,6 +59,11 @@ All changes are documented in [CHANGELOG.md](CHANGELOG.md). We publish GitHub
 releases whenever a `v*.*.*` tag is pushed so you can easily reference past
 versions.
 
+## License
+
+Text in this repository is available under the
+[Creative Commons Attribution 4.0 International](LICENSE) license.
+
 ---
 
 *Building technology that helps humans flourish.*
