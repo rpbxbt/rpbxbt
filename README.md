@@ -13,7 +13,7 @@ Currently working with:
 
 ## Core Principles
 
-**MTSMU** - Maximally Truth-Seeking, Maximally Useful  
+**MTSMU** - Maximally Truth-Seeking, Maximally Useful
 **HUMMBL** - Highly Useful Mental Model Base Language
 
 These frameworks guide how I approach building technology that genuinely serves human wellbeing.
