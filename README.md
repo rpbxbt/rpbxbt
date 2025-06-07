@@ -43,6 +43,10 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues
 
 Automated tests run on GitHub Actions for each push and pull request, helping catch issues early.
 
+## Code Coverage
+
+The CI workflow runs tests with `pytest-cov` and uploads a coverage report as an artifact, so we can track how much of the codebase is exercised over time.
+
 ---
 
 *Building technology that helps humans flourish.*
