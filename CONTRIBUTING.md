@@ -11,6 +11,7 @@ We welcome contributions that help build technology for human flourishing. Pleas
 ## Submitting Pull Requests
 - Fork the repository and create a topic branch.
 - Make focused commits with clear messages.
+- Update `CHANGELOG.md` with a short summary of your changes.
 - Ensure tests pass (if available).
 - Open a pull request against the `main` branch and reference any related issues.
 - Be ready to discuss feedback and make adjustments.

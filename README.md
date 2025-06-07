@@ -53,6 +53,12 @@ Automated tests run on GitHub Actions for each push and pull request, helping ca
 
 The CI workflow runs tests with `pytest-cov` and uploads a coverage report as an artifact, so we can track how much of the codebase is exercised over time.
 
+## Releases
+
+All changes are documented in [CHANGELOG.md](CHANGELOG.md). We publish GitHub
+releases whenever a `v*.*.*` tag is pushed so you can easily reference past
+versions.
+
 ---
 
 *Building technology that helps humans flourish.*
