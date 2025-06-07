@@ -13,7 +13,7 @@ Currently working with:
 
 ## Core Principles
 
-**MTSMU** - Maximally Truth-Seeking, Maximally Useful  
+**MTSMU** - Maximally Truth-Seeking, Maximally Useful
 **HUMMBL** - Highly Useful Mental Model Base Language
 
 These frameworks guide how I approach building technology that genuinely serves human wellbeing.
@@ -34,6 +34,10 @@ Let's connect.
 📍 **Atlanta, GA area?** Let's meet in person! I'm a Performer at Life Time North Druid Hills and offer coaching services. Always up for a workout or coffee to discuss ideas.
 
 🏢 **NEXUS AI LLC** - AI Consulting & Development
+
+## Contributing
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues and submitting pull requests.
 
 ---
 
