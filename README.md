@@ -57,7 +57,8 @@ The CI workflow runs tests with `pytest-cov` and uploads a coverage report as an
 
 All changes are documented in [CHANGELOG.md](CHANGELOG.md). We publish GitHub
 releases whenever a `v*.*.*` tag is pushed so you can easily reference past
-versions.
+versions. Each release automatically attaches a `tar.gz` archive of the
+repository built by our workflow.
 
 ## Branch Protection
 

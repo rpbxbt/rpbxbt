@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 - Ongoing development
+- Release workflow packages repository and attaches archive to each release
 
 ## [0.1.0] - 2025-06-07
 - Initial release with CI, issue templates, and contributor guidelines
