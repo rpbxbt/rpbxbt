@@ -1,11 +1,40 @@
-- 👋 Hi, I’m @rpbxbt
-- 👀 I’m interested in building tools and telling stories about how humans can integrate AI and Deep Tech with Health and Wellness. hw/acc (health & wellness accellerationism) --- Rapid Progress towards Human Flourishing. 
-- 🌱 I’m currently learning Claude Code, Codex by Open AI, GitHub CoPilot, etc. while continuing my education for Prompt Engineering & Systems Architecture. Im learning about and building something I call "Belonging as Knowledge Infrastructure" 
-- 💞️ I’m looking to collaborate on Health & Wellness initiatives. For example, Social Experiences that promote a healthy way of life for all. 
-- 📫 How to reach me: reubenxbt@proton.me // If you are in the Atlanta, GA area, lets meet in person or schedule a time to workout together or grab a coffee! I am a Performer at Life Time North Druid Hills. Inquire about Coaching Services. 
-- // MTSMU - Maximally Truth-Seeking, Maximally Useful // HUMMBL - Highly Useful Mental Model Base Language // NEXUS AI LLC. by RPBx - AI Consulting+ 
+# Hi, I'm Reuben (@rpbxbt) 👋
 
-<!---
-rpbxbt/rpbxbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm building at the intersection of AI, deep tech, health, and wellness. My mission is **hw/acc** (health & wellness accelerationism) — driving rapid progress toward human flourishing through technology.
+
+## What I'm Building
+
+I'm developing what I call **"Belonging as Knowledge Infrastructure"** — systems that help communities build meaningful connections while leveraging collective intelligence for health and wellness outcomes.
+
+Currently working with:
+- Claude Code for AI-assisted development
+- GitHub Copilot and OpenAI Codex for rapid prototyping
+- Prompt engineering and systems architecture for health applications
+
+## Core Principles
+
+**MTSMU** - Maximally Truth-Seeking, Maximally Useful  
+**HUMMBL** - Highly Useful Mental Model Base Language
+
+These frameworks guide how I approach building technology that genuinely serves human wellbeing.
+
+## Let's Collaborate
+
+I'm looking for partners on health & wellness initiatives that create social experiences promoting healthy lifestyles for all. If you're working on:
+- Community-driven wellness platforms
+- AI applications for preventive health
+- Tools that combine human connection with health outcomes
+
+Let's connect.
+
+## Get in Touch
+
+📧 reubenxbt@proton.me
+
+📍 **Atlanta, GA area?** Let's meet in person! I'm a Performer at Life Time North Druid Hills and offer coaching services. Always up for a workout or coffee to discuss ideas.
+
+🏢 **NEXUS AI LLC** - AI Consulting & Development
+
+---
+
+*Building technology that helps humans flourish.*
