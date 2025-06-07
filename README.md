@@ -39,6 +39,10 @@ Let's connect.
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues and submitting pull requests.
 
+## Continuous Integration
+
+Automated tests run on GitHub Actions for each push and pull request, helping catch issues early.
+
 ---
 
 *Building technology that helps humans flourish.*
