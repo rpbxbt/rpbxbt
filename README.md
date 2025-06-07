@@ -13,7 +13,7 @@ Currently working with:
 
 ## Core Principles
 
-**MTSMU** - Maximally Truth-Seeking, Maximally Useful  
+**MTSMU** - Maximally Truth-Seeking, Maximally Useful
 **HUMMBL** - Highly Useful Mental Model Base Language
 
 These frameworks guide how I approach building technology that genuinely serves human wellbeing.
@@ -34,6 +34,41 @@ Let's connect.
 📍 **Atlanta, GA area?** Let's meet in person! I'm a Performer at Life Time North Druid Hills and offer coaching services. Always up for a workout or coffee to discuss ideas.
 
 🏢 **NEXUS AI LLC** - AI Consulting & Development
+
+## Contributing
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues and submitting pull requests.
+
+## Issue Tracking
+
+Use the GitHub issue templates when reporting bugs or requesting features. Bug
+reports automatically get the `bug` label, while feature requests receive the
+`enhancement` label so we can triage them quickly.
+
+## Continuous Integration
+
+Automated tests run on GitHub Actions for each push and pull request, helping catch issues early.
+
+## Code Coverage
+
+The CI workflow runs tests with `pytest-cov` and uploads a coverage report as an artifact, so we can track how much of the codebase is exercised over time.
+
+## Releases
+
+All changes are documented in [CHANGELOG.md](CHANGELOG.md). We publish GitHub
+releases whenever a `v*.*.*` tag is pushed so you can easily reference past
+versions. Each release automatically attaches a `tar.gz` archive of the
+repository built by our workflow.
+
+## Branch Protection
+
+The `main` branch is protected to ensure code quality. See
+[BRANCH_PROTECTION.md](BRANCH_PROTECTION.md) for the recommended settings.
+
+## License
+
+Text in this repository is available under the
+[Creative Commons Attribution 4.0 International](LICENSE) license.
 
 ---
 
