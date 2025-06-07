@@ -39,6 +39,12 @@ Let's connect.
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues and submitting pull requests.
 
+## Issue Tracking
+
+Use the GitHub issue templates when reporting bugs or requesting features. Bug
+reports automatically get the `bug` label, while feature requests receive the
+`enhancement` label so we can triage them quickly.
+
 ## Continuous Integration
 
 Automated tests run on GitHub Actions for each push and pull request, helping catch issues early.

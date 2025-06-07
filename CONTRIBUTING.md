@@ -4,8 +4,9 @@ We welcome contributions that help build technology for human flourishing. Pleas
 
 ## Reporting Issues
 - Search existing issues to avoid duplicates.
-- Open a new issue describing the problem or suggestion.
+- Open a new issue using the appropriate template.
 - Include details and steps to reproduce when relevant.
+- Use labels like `bug` or `enhancement` to help categorize your issue.
 
 ## Submitting Pull Requests
 - Fork the repository and create a topic branch.
