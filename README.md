@@ -58,6 +58,22 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 - ✅ Release workflow publishing artifacts
 - Prototype demonstrates how community data can be processed to yield useful metrics.
 
+## NEXUS AI Prototype
+Nexus AI explores collaborative intelligence.
+
+### Quickstart
+```bash
+python -m nexus_ai.cli data/nexus_sample_data.json
+```
+
+### Example Usage
+```
+$ python -m nexus_ai.cli data/nexus_sample_data.json
+Nodes: Alpha, Beta, Gamma, Delta
+Network score: 0.67
+```
+
+
 ## Let's Collaborate
 
 I'm looking for partners on health & wellness initiatives that create social experiences promoting healthy lifestyles for all. If you're working on:

@@ -1,0 +1,9 @@
+{
+  "nodes": ["Alpha", "Beta", "Gamma", "Delta"],
+  "links": [
+    ["Alpha", "Beta"],
+    ["Alpha", "Gamma"],
+    ["Beta", "Gamma"],
+    ["Gamma", "Delta"]
+  ]
+}
