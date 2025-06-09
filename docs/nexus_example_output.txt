@@ -1,0 +1,3 @@
+$ python -m nexus_ai.cli data/nexus_sample_data.json
+Nodes: Alpha, Beta, Gamma, Delta
+Network score: 0.67
