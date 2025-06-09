@@ -1,0 +1,3 @@
+$ python -m belonging.cli data/sample_data.json
+Members: Alice, Bob, Charlie, Dana
+Belonging score: 0.67
