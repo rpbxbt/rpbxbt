@@ -1,0 +1,9 @@
+{
+  "members": ["Alice", "Bob", "Charlie", "Dana"],
+  "connections": [
+    ["Alice", "Bob"],
+    ["Alice", "Charlie"],
+    ["Bob", "Charlie"],
+    ["Charlie", "Dana"]
+  ]
+}
