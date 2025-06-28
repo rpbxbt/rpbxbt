@@ -1,0 +1,28 @@
+[project]
+name = "rpbxbt"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Codex",email = "codex@openai.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv (>=1.1.1,<2.0.0)"
+]
+
+
+[tool.poetry]
+packages = [
+    { include = "rpbxbt", from = "src" },
+    { include = "belonging" },
+    { include = "nexus_ai" },
+]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.4.1"
+ruff = "^0.12.1"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
