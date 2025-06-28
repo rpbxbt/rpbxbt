@@ -16,10 +16,21 @@ class Community:
         return cls(members=data.get('members', []), connections=connections)
 
     def belonging_score(self) -> float:
-        """Return a simple connection density score between 0 and 1."""
+        """Return a simple connection density score between 0 and 1.
+
+        Duplicate or reversed connections are ignored so the score never
+        exceeds 1.0.
+        """
         n = len(self.members)
         if n < 2:
             return 0.0
         max_connections = n * (n - 1) // 2
-        actual_connections = len(self.connections)
+
+        unique_connections = {
+            frozenset(pair)
+            for pair in self.connections
+            if len(pair) == 2 and pair[0] != pair[1]
+        }
+        actual_connections = len(unique_connections)
+
         return actual_connections / max_connections
