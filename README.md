@@ -39,7 +39,6 @@ Use the CLI to compute a belonging score:
 ```bash
 python -m belonging.cli data/sample_data.json
 ```
-
 Example output:
 ```
 $ python -m belonging.cli data/sample_data.json

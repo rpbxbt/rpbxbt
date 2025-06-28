@@ -9,4 +9,8 @@ def test_cli_output():
         text=True,
         check=True,
     )
-    assert 'Belonging score:' in result.stdout
+    expected = (
+        "Members: Alice, Bob, Charlie, Dana\n"
+        "Belonging score: 0.67\n"
+    )
+    assert result.stdout == expected

@@ -9,4 +9,8 @@ def test_cli_output():
         text=True,
         check=True,
     )
-    assert 'Network score:' in result.stdout
+    expected = (
+        "Nodes: Alpha, Beta, Gamma, Delta\n"
+        "Network score: 0.67\n"
+    )
+    assert result.stdout == expected
